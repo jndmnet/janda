@@ -1,3 +1,0 @@
-# Headline
-
-Hello there.
